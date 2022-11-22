@@ -1,7 +1,7 @@
 {
   "name": "noughts-and-crosses",
   "version": "0.1.0",
-  "homepage": "https://dmp990.github.io/noughts-and-crosses",
+  "homepage": "https://dmp990.github.io/noughts_and_crosses",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
